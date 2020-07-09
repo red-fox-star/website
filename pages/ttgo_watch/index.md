@@ -11,6 +11,22 @@ title: TTGO 2020 V1 Notes
 &middot;
 [My Watch Source](https://github.com/red-fox-star/ttgo_watch)
 
+-------
+
+[TFT Library](https://github.com/Bodmer/TFT_eSPI)
+
+------
+
+## Helpful Examples
+
+[FreeRTOS taskNotify mailbox](examples/mailbox)
+&middot;
+[Queued Serial Port Task](examples/queued_serial)
+
+------
+
+# Notes
+
 ## Power Conservation
 - Out of the box the watch will consume ~140mA running most of the example code
 
