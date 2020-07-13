@@ -13,6 +13,8 @@ title: TTGO 2020 V1 Notes
 
 -------
 
+## Native libraries used by TTGO Watch
+
 [TFT Library](https://github.com/Bodmer/TFT_eSPI)
 
 ------
@@ -22,6 +24,8 @@ title: TTGO 2020 V1 Notes
 [FreeRTOS taskNotify mailbox](examples/mailbox)
 &middot;
 [Queued Serial Port Task](examples/queued_serial)
+&middot;
+[Basic Digital Watch](examples/basic_watch)
 
 ------
 
