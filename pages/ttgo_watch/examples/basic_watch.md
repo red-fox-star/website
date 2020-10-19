@@ -1,6 +1,6 @@
 ---
 layout: home
-title: FreeRTOS Task Notification Mailbox example
+title: Basic Digital Watch
 ---
 
 {% highlight c++ linenos %}
